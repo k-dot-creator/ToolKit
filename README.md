@@ -387,4 +387,3 @@ python bot5.py
 <img src="https://profile-counter.glitch.me/robbiejr-toolkit/count.svg" alt="Visitor Count">
 
 </div>
-```
