@@ -15,9 +15,9 @@
 
 <br>
 
-<img src="https://img.shields.io/github/stars/robbiejrdev/robbiejr-toolkit?style=social" alt="Stars">
-<img src="https://img.shields.io/github/forks/robbiejrdev/robbiejr-toolkit?style=social" alt="Forks">
-<img src="https://img.shields.io/github/watchers/robbiejrdev/robbiejr-toolkit?style=social" alt="Watchers">
+<img src="https://img.shields.io/github/stars/k-dot-creator/Toolkit?style=social" alt="Stars">
+<img src="https://img.shields.io/github/forks/k-dot-creator/Toolkit?style=social" alt="Forks">
+<img src="https://img.shields.io/github/watchers/k-dot-creator/Toolkit?style=social" alt="Watchers">
 
 </div>
 
